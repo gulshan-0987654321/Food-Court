@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Website
 
 A **fully responsive** restaurant website built using **HTML, CSS, JavaScript, and Bootstrap**. The website provides an elegant and user-friendly interface to showcase restaurant services, menu, and contact details.
-## LINK:-(https://srishanthreddy456789.github.io/Dine-hub/)
+## LINK:-(https://gulshan-0987654321.github.io/Make-Trip/)
 
 ## 📸 Screenshots
 
@@ -42,10 +42,3 @@ Gift card and Follow us:
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
-
-## ✨ Author
-👤 [Srishanth Reddy Narra]<br>
-📧 Email: srishanthreddy456@gmail.com<br>
-🔗 Mobile no: +91-8328214109<br>
-📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/srishanth-reddy-narra-61a1142a0/)
-
